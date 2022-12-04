@@ -43,6 +43,7 @@ public class MainClass {
         }
         finally {
             driver.quit();
+            driver.quit();
         }
 
     }
